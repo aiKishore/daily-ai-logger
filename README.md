@@ -24,6 +24,10 @@ Choose:
 
 * `1` → View logs
 * `2` → Add new log
+  
+## Example Output
+--------- All Logs ----------
+09/04/2023 10:30:00 | Kishore | Implement AI log tracker.
 
 ## Purpose
 
