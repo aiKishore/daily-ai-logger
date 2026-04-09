@@ -1,12 +1,18 @@
-# Daily AI Productivity Logger
+# Daily AI Productivity Logger (CLI Tool）
 
 A simple Python CLI tool to track daily AI learning goals and progress.
+
+## How It Works
+
+- User selects an option (read/write)
+- Logs are stored in a local text file
+- Each entry includes a timestamp, a name, and a goal
 
 ## Features
 
 * Save daily goals with a timestamp
 * Read all past logs
-* Lightweight and easy to use
+* Lightweight, fast, and easy to use
 
 ## Tech Stack
 
