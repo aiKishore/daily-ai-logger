@@ -15,8 +15,11 @@ file_path = "log.txt"
 if operation_choice == "1":
     with open(file_path, "r") as file:
         content = file.read()
-        print("\n--------- All logs----------")
-        print(content)
+        if not content:
+            print("No logs found yet.")
+        else:
+            print("\n--------- All logs----------")
+            print(content)
         
 elif operation_choice == "2":
     name = input("Please enter your first name: ")
