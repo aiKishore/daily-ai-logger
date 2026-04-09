@@ -31,7 +31,7 @@ Choose:
 
 ## Purpose
 
-Building consistency in coding and AI development through daily tracking.
+To build consistency in coding and strengthen my foundation in AI engineering through daily practice.
 
 ## Future Improvements
 
